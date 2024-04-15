@@ -2,9 +2,9 @@
 
 Welcome to the GitHub repository for my Olympic Games analysis, visualized through PowerBI. This project explores the rich history and vibrant legacy of the Olympics, tracking the progression and milestones from Athens 1896 to Rio 2016.
 
-![Page1.png]
-![Page2.png]
-![Page3.png]
+![](Page1.png)
+![](Page2.png)
+![](Page3.png)
 
 ## Overview
 
