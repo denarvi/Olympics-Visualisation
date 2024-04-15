@@ -2,6 +2,10 @@
 
 Welcome to the GitHub repository for my Olympic Games analysis, visualized through PowerBI. This project explores the rich history and vibrant legacy of the Olympics, tracking the progression and milestones from Athens 1896 to Rio 2016.
 
+![Page1.png]
+![Page2.png]
+![Page3.png]
+
 ## Overview
 
 This repository contains a PowerBI dashboard that visualizes comprehensive data from over a century of the Olympic Games. The interactive report provides insights into the athletes' performances, country participation, and sport-by-sport breakdown over the years.
